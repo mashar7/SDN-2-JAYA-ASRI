@@ -1,0 +1,8 @@
+{
+  "name": "UPTD SD Negeri 2 Jaya Asri - Microsite Resmi",
+  "description": "Microsite dan Portal Pusat Data & Akses Dokumen Google Drive Pembelajaran UPTD SD Negeri 2 Jaya Asri. Visi, Misi, Perangkat Ajar Kurikulum Merdeka, dan Manajemen Sekolah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
